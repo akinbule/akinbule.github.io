@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Benjamin Harvey
+title : Olatunji Akinbule
 author :
-  name : Benjamin Harvey
-  email : bsharve@gmail.com
-  github : bsharvey
-  twitter : bsharvey
+  name : 
+  email : olatunji.akinbule@gmail.com
+  github : akinbule
+  twitter : 
   feedburner : nil
 
-production_url : https://bsharvey.github.io/
+production_url : https://akinbule.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
