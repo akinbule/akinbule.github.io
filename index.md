@@ -22,25 +22,28 @@ keywords: Machine Learning, Statistics, Python
 <tr>
   <td class="left">
     <a href="https://bsharvey.github.io/pages/publpics/bioinformatics1.html">
-        <img src="pages/publpics/bioinformatics1.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="
+      akinbule.github.io/assets/publpics/Social Network Analysis Circle.png
+    " alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
     <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
-        <img src="pages/publpics/nba1.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+        <img src="" alt="" title=""/>
     </a>
   </td>
 </tr>
+      akinbule.github.io/assets/publpics/Social Network Analysis Circle.png
+    
 <tr>
   <td class="left">
-    <a href="https://bsharvey.github.io">
-        <img src="pages/publpics/bioinformatics2.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="">
+        <img src="" alt="" title=""/>
     </a>
   </td>
   <td class="right">
-    <a href="https://bsharvey.github.io">
-        <img src="pages/publpics/nba2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="">
+        <img src="" alt=""/>
     </a>
   </td>
 </tr>
