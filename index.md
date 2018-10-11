@@ -21,8 +21,8 @@ keywords: Machine Learning, Statistics, Python
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="akinbule.github.io/assets/publpics/Social Network Analysis Circle.png">
-        <img src="pages/publpics/bioinformatics1.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="https://bsharvey.github.io/pages/publpics/bioinformatics1.html">
+        <img src="akinbule.github.io/assets/publpics/Social Network Analysis Circle.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
   <td class="right">
