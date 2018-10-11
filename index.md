@@ -11,7 +11,7 @@ keywords: Machine Learning, Statistics, Python
           <li><a href="{{ BASE_PATH }}/assets/bsharvey_cv.pdf">cv</a></li>
           <li><a href="https://github.com/bsharvey">github</a></li>
           <li><a href="https://bsharvey.github.io">blog</a></li>
-          <li><a href="https://https://www.linkedin.com/in/olatunji-akinbule//">LinkedIn</a></li>
+          <li><a href="https://www.linkedin.com/in/olatunji-akinbule//">LinkedIn</a></li>
       </ul>
   </div>
 </div>
@@ -29,7 +29,7 @@ keywords: Machine Learning, Statistics, Python
   <td class="right">
     <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
         <img src="pages/publpics/nba1.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+        al. (2016) Fig 4" title="social-network-analysis"/>
     </a>
   </td>
 </tr>
