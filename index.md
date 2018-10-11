@@ -11,7 +11,7 @@ keywords: Machine Learning, Statistics, Python
           <li><a href="{{ BASE_PATH }}/assets/bsharvey_cv.pdf">cv</a></li>
           <li><a href="https://github.com/bsharvey">github</a></li>
           <li><a href="https://bsharvey.github.io">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/olatunji-akinbule//">LinkedIn</a></li>
+          <li><a href="https:/www.linkedin.com/in/olatunji-akinbule/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
