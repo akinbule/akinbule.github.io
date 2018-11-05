@@ -22,7 +22,7 @@ keywords: Machine Learning, Statistics, Python
   <tr> <th>Submissions</th> 
     <th></th> </tr> 
   <tr> <td><a href="https://akinbule.github.io/assets/HW1.ipynb">Assignment1</a></td> <td></td> </tr> 
-  <tr> <td><a href="https://akinbule.github.io/assets/HW1.ipynb">Assignment2</a></td> <td>KNN, PCA</td> 
+  <tr> <td><a href="https://akinbule.github.io/assets/HW2.ipynb">Assignment2</a></td> <td>KNN, PCA</td> 
   </tr> 
 </table>
 
