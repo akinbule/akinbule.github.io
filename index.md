@@ -18,7 +18,17 @@ keywords: Machine Learning, Statistics, Python
 
 ### <a name="Portfolio"></a>Portfolio
 
-<a href="https://akinbule.github.io/assets/HW1.ipynb">Assignment1</a>
+<table> 
+  <tr> <th>Submissions</th> 
+    <th>Description</th> </tr> 
+  <tr> <td><a href="https://akinbule.github.io/assets/HW1.ipynb">Assignment1</a></td> <td></td> </tr> 
+  <tr> <td><a href="https://akinbule.github.io/assets/HW1.ipynb">Assignment2</a></td> <td>KNN, PCA</td> 
+  </tr> 
+</table>
+
+
+
+
 
 <table class="wide">
 <tr>
