@@ -15,9 +15,7 @@ keywords: Machine Learning, Statistics, Python
       </ul>
   </div>
 </div>
-
 <a name="Portfolio"></a>Portfolio
-
 <table> 
   <tr> <th>Submissions</th> 
     <th></th> </tr> 
