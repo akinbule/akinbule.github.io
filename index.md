@@ -24,7 +24,7 @@ keywords: Machine Learning, Statistics, Python
   <tr> <td><a href="https://akinbule.github.io/assets/HW1.ipynb">Assignment1</a></td> <td></td> </tr> 
   <tr> <td><a href="https://akinbule.github.io/assets/HW2.ipynb">Assignment2</a></td> <td>KNN, PCA</td>
   <tr> <td><a href="https://akinbule.github.io/assets/HW2.ipynb">Assignment2</a></td> <td>KNN, PCA</td>
-  <tr> <td><a href="https://akinbule.github.io/assets/HW3.ipynb">Assignment3</a></td> <td><td><a href="https://akinbule.github.io/assets/merge_data_target">Data File</a></td>
+  <tr> <td><a href="https://akinbule.github.io/assets/HW3.ipynb">Assignment3</a></td> <td><a href="https://akinbule.github.io/assets/merge_data_target">Data File</a></td>
   </tr> 
 </table>
 
