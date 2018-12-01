@@ -15,7 +15,8 @@ keywords: Machine Learning, Statistics, Python
       </ul>
   </div>
 </div>
-<a name="Portfolio"></a>Portfolio
+<a name="Portfolio">Portfolio</a>
+
 <table> 
   <tr> <th>Submissions</th> 
     <th></th> </tr> 
@@ -25,10 +26,6 @@ keywords: Machine Learning, Statistics, Python
   <tr> <td><a href="https://akinbule.github.io/assets/HW3.ipynb">Assignment3</a></td> <td><a href="https://akinbule.github.io/assets/merge_data_target">Data File</a></td>
   </tr> 
 </table>
-
-
-
-
 
 <table class="wide">
 <tr>
