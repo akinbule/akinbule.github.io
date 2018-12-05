@@ -5,22 +5,34 @@ description: Olatunji is a graduate student at The George Washington University.
 keywords: Machine Learning, Statistics, Python
 ---
 
+## <a name="Welcome to TJ's Website !"></a>Welcome to TJ's Website !
+<br>
+<br>
+  
+<p align = "left">
+I am handsome! 
+</p>
+
+<p align = "left">
+I am sooooo handsome! 
+</p>
 <!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
 -->
-      <ul>
-          <li><a href="{{ BASE_PATH }}/assets/bsharvey_cv.pdf">Resume</a></li>
-          <li><a href="https://github.com/akinbule">github</a></li>
-          <li><a href="https://akinbule.github.io">Personal Website</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
-      </ul>
- <!--
+<ul>
+    <li><a href="{{ BASE_PATH }}/assets/bsharvey_cv.pdf">Resume</a></li>
+    <li><a href="https://github.com/akinbule">github</a></li>
+    <li><a href="https://akinbule.github.io">Personal Website</a></li>
+    <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+</ul>
+
+<!--
   </div>
 </div>
 -->
-<a name="Portfolio">Portfolio</a>
+## <a name="Portfolio">Portfolio</a>
 
 <!--
 <table> 
