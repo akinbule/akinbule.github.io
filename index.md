@@ -17,6 +17,7 @@ keywords: Machine Learning, Statistics, Python
 </div>
 <a name="Portfolio">Portfolio</a>
 
+<!--
 <table> 
   <tr> <th>Submissions</th> 
     <th></th> </tr> 
@@ -26,14 +27,17 @@ keywords: Machine Learning, Statistics, Python
   <tr> <td><a href="https://akinbule.github.io/assets/HW3.ipynb">Assignment3</a></td> <td><a href="https://akinbule.github.io/assets/merge_data_target.csv">Data File</a></td>
   </tr> 
 </table>
+-->
+
 
 <table class="wide">
 <tr>
   <td class="left">
     <a href="https://bsharvey.github.io/pages/publpics/bioinformatics1.html">
-        <img src="akinbule.github.io/assets/publpics/Social Network Analysis Circle.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="https://akinbule.github.io/assets/publpics/Social Network Analysis Circle.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
+
   <td class="right">
     <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
         <img src="pages/publpics/nba1.png" alt="Tian et
@@ -42,6 +46,7 @@ keywords: Machine Learning, Statistics, Python
   </td>
 </tr>
 <tr>
+ <!--
   <td class="left">
     <a href="https://bsharvey.github.io">
         <img src="pages/publpics/bioinformatics2.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
@@ -53,6 +58,7 @@ keywords: Machine Learning, Statistics, Python
     </a>
   </td>
 </tr>
+-->
 </table>
 
 <div class="navbar">
