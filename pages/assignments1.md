@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: Assigments
 description: Benjamin Harvey is...
 ---
 
