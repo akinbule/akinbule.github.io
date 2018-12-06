@@ -57,7 +57,7 @@ Currently I am a first-year MS Candidate in Data Analytics at The George Washing
 
   <td class="right">
     <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
-        <img src="https://akinbule.github.io/blob/master/assets/pics/soccer_wordcloud.jpg" alt="Tian et
+        <img src="https://akinbule.github.io/publpics/Parallel%20Plot%20-%20Cluster.png" alt="Tian et
         al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
     </a>
   </td>
