@@ -27,12 +27,20 @@ The European Soccer Project Involves analysis on the features that contribute to
 
 
 <p>  
-  Figure 1: This shows the correlation between all features from the Soccer Database
+  <strong>Figure 1: Weight and Height Distributions of Players </strong>
+  
+  <img src="https://akinbule.github.io/pages//publpics/AgeSprint1.png" alt="Correlation" title="Age Sprint"/>
+  <img src="https://akinbule.github.io/pages//publpics/SprintHeight1.png" alt="Correlation" title="Heat Map"/>
+</p>
+
+
+<p>  
+  <strong>Figure 2: This shows the correlation between all features from the Soccer Database</strong>
   <img src="https://akinbule.github.io/pages/publpics/Heatmap.png" alt="Correlation" title="Heat Map"/>
 </p>
 
 <br>
 <p>
-  Figure 2: This Chart shows a cluster analysis of player using 5 selected attributes 
+  Figure 3: This Chart shows a cluster analysis of player using 5 selected attributes 
   <img src="https://akinbule.github.io/pages/publpics/ParallelPlotCluster.png" alt="Cluster Analysis" title="Cluster Analysis"/>
 </p>
