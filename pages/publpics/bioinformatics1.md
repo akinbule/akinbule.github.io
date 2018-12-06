@@ -12,6 +12,7 @@ title: large-scale cancer genomic data using signal processing
   </div>
 </div>
 
+<!--
 [Cloud Scale Genomic Signals Processing](https://ieeexplore.ieee.org/document/7317496/), a methodology for the anlysis of large-scale cancer genomic data using signal processing; <br/>
 see B. S. Harvey and S. Ji, "Cloud-Scale Genomic Signals Processing for Robust Large-Scale Cancer Genomic Microarray Data Analysis," in IEEE Journal of Biomedical and Health Informatics, vol. 21, no. 1, pp. 238-245, Jan. 2017.
 [![PubMed](../icons16/pubmed-icon.png)]()
@@ -22,4 +23,13 @@ see B. S. Harvey and S. Ji, "Cloud-Scale Genomic Signals Processing for Robust L
 
 Figure 1: Heat map of Global Cancer Map (GCM) sample expression levels generated from Wavelet Thresholding method for genes/features selection.
 Figure 2: Heat map of Global Cancer Map (GCM) sample expression levels generated from Differentially Expressed method for genes/features selection.
+
+-->
+<p>  
+  <strong>Figure 1: Weight and Height Distributions of Players </strong>
+  
+  <img src="https://akinbule.github.io/pages//publpics/GoalsPerGame.png" alt="Goals Per Game" title="Goal Game Ratio"/>
+  
+</p>
+
 
