@@ -5,16 +5,17 @@ description: Olatunji is a graduate student at The George Washington University.
 keywords: Machine Learning, Statistics, Python
 ---
 
-## <a name="Welcome to TJ's Website !"></a>Welcome to TJ's Website !
+## <a name=""></a>Greetings !
 <br>
 <br>
   
 <p align = "left">
-I am handsome! 
+I am Olatunji Akinbule, a Data Scientist with interests in Machine Learning, Statistics and Natural Language Processing.
+
 </p>
 
 <p align = "left">
-I am sooooo handsome! 
+Currently I am a first-year MS Candidate in Data Analytics at The George Washington University
 </p>
 <!--
 <div class="navbar">
@@ -79,7 +80,7 @@ I am sooooo handsome!
   -->
 </table>
 
-<!--
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
