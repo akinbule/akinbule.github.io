@@ -2,7 +2,7 @@
 layout: frontpage
 title: NBA Team and Player Analysis
 ---
-
+<!--
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -21,3 +21,13 @@ title: NBA Team and Player Analysis
 Figure 1: This chart shows an assist, turnover, "+/-" comparison over the season as it relates to wins and losses.
 Figure 2: This chart diplays a "+/-" analysis to show box plots of wins and losses the mean and standard deviation along the regular season.
 
+-->
+
+The European Soccer Project Involves analysis on the features that contribute to the overall player rating of players for 2016.
+
+
+
+![Player Cluster Analysis](../../pages/publpics/ParallePlotCluster.png)
+
+Figure 1: This shows the correlation between all features from the Soccer Database
+Figure 2: This Chart shows a cluster analysis of player using 5 selected attributes 
