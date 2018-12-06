@@ -27,7 +27,7 @@ The European Soccer Project Involves analysis on the features that contribute to
 
 
 
-<img src = "/pages/publpics/ParallePlotCluster.png">
+<img src="https://akinbule.github.io/pages/publpics/ParallelPlotCluster.png" alt="Cluster Analysis" title="Cluster Analysis"/>
 
 Figure 1: This shows the correlation between all features from the Soccer Database
-Figure 2: This Chart shows a cluster analysis of player using 5 selected attributes 
+<br>Figure 2: This Chart shows a cluster analysis of player using 5 selected attributes 
