@@ -26,8 +26,13 @@ Figure 2: This chart diplays a "+/-" analysis to show box plots of wins and loss
 The European Soccer Project Involves analysis on the features that contribute to the overall player rating of players for 2016.
 
 
+<p>  
+  Figure 1: This shows the correlation between all features from the Soccer Database
+  <img src="https://akinbule.github.io/pages/publpics/Heatmap.png" alt="Correlation" title="Heat Map"/>
+</p>
 
-<img src="https://akinbule.github.io/pages/publpics/ParallelPlotCluster.png" alt="Cluster Analysis" title="Cluster Analysis"/>
-
-Figure 1: This shows the correlation between all features from the Soccer Database
-<br>Figure 2: This Chart shows a cluster analysis of player using 5 selected attributes 
+<br>
+<p>
+  Figure 2: This Chart shows a cluster analysis of player using 5 selected attributes 
+  <img src="https://akinbule.github.io/pages/publpics/ParallelPlotCluster.png" alt="Cluster Analysis" title="Cluster Analysis"/>
+</p>
