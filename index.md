@@ -7,7 +7,6 @@ keywords: Machine Learning, Statistics, Python
 
 ## <a name=""></a>Greetings !
 <br>
-<br>
   
 <p align = "left">
 I am Olatunji Akinbule, a Data Scientist with interests in Machine Learning, Statistics and Natural Language Processing.
