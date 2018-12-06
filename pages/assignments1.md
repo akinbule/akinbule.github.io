@@ -3,6 +3,11 @@ layout: page
 title: Assigments
 description: Benjamin Harvey is...
 ---
+<p align = "left">
+Below are the list of Assignments for Dr. Benjamin Harvey's Fall 2018 - Data Analysis class.
+
+</p>
+
 
 <li><a href="https://akinbule.github.io/assets/HW1.ipynb">Assignment1</a></li>
 <li><a href="https://akinbule.github.io/assets/HW2.ipynb">Assignment2</a></li>
