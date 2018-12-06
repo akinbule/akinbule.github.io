@@ -5,7 +5,7 @@ description: Olatunji Akinbule is...
 ---
 
 #### <a name="currentposition"></a>current position
-Dr. Benjamin Harvey currently is a data analytics first-year graduate student in the School of Engineering and Applied Sciences at the George Washington University (GWU).
+Olatunji Akinbule currently is a data analytics first-year graduate student in the School of Engineering and Applied Sciences at the George Washington University (GWU).
 
 
 #### <a name="previousposition"></a>previous positions
@@ -19,9 +19,9 @@ Dr. Harvey conducted research at Harvard-Massachusetts Institute of Technology (
 -->
 
 #### <a name="education"></a>education
-Olatunji graduated from The American University of Nigeria in 2012 with a B.Sc. in Software Engineering. His Capstone Project was entitled “Developing a Transit Management System wi.”   
+Olatunji graduated from The American University of Nigeria in 2012 with a B.Sc. in Software Engineering. His Capstone Project was entitled “Developing a Transit Management System with Geograhic Informaton System Tracking.”   
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Resume Olatunji Akinbule.pdf)
 
 ---
