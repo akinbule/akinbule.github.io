@@ -54,10 +54,9 @@ Currently I am a first-year MS Candidate in Data Analytics at The George Washing
         <img src="https://akinbule.github.io/assets/publpics/Social Network Analysis Circle.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
     </a>
   </td>
-
   <td class="right">
     <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
-        <img src="https://akinbule.github.io/publpics/Parallel%20Plot%20-%20Cluster.png" alt="Tian et
+        <img src="https://akinbule.github.io/pages/publpics/ParallelPlotCluster.png" alt="Tian et
         al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
     </a>
   </td>
