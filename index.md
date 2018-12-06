@@ -25,7 +25,7 @@ Currently I am a first-year MS Candidate in Data Analytics at The George Washing
     <li><a href="{{ BASE_PATH }}/assets/bsharvey_cv.pdf">Resume</a></li>
     <li><a href="https://github.com/akinbule">github</a></li>
     <li><a href="https://akinbule.github.io">Personal Website</a></li>
-    <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+    <li><a href="https://www.linkedin.com/in/olatunji-akinbule/">LinkedIn</a></li>
 </ul>
 
 <!--
@@ -57,7 +57,7 @@ Currently I am a first-year MS Candidate in Data Analytics at The George Washing
 
   <td class="right">
     <a href="https://bsharvey.github.io/pages/publpics/nba1.html">
-        <img src="https://github.com/akinbule/akinbule.github.io/blob/master/assets/pics/soccer_wordcloud.jpg" alt="Tian et
+        <img src="https://akinbule.github.io/blob/master/assets/pics/soccer_wordcloud.jpg" alt="Tian et
         al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
     </a>
   </td>
