@@ -26,7 +26,7 @@ Figure 2: Heat map of Global Cancer Map (GCM) sample expression levels generated
 
 -->
 <p>  
-  <strong>Figure 1: Weight and Height Distributions of Players </strong>
+  <strong>Figure 4: Goals per Game Comparison of 5 European Leagues"  </strong>
   
   <img src="https://akinbule.github.io/pages//publpics/GoalsPerGame.png" alt="Goals Per Game" title="Goal Game Ratio"/>
   
