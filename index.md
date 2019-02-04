@@ -22,7 +22,7 @@ Currently I am a first-year MS Candidate in Data Analytics at The George Washing
       <ul class="nav">
 -->
 <ul>
-    <li><a href="{{ BASE_PATH }}/assets/bsharvey_cv.pdf">Resume</a></li>
+    <li><a href="{{ BASE_PATH }}/assets/olatunji_resume.pdf">Resume</a></li>
     <li><a href="https://github.com/akinbule">github</a></li>
     <li><a href="https://akinbule.github.io">Personal Website</a></li>
     <li><a href="https://www.linkedin.com/in/olatunji-akinbule/">LinkedIn</a></li>
