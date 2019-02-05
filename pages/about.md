@@ -22,6 +22,6 @@ Dr. Harvey conducted research at Harvard-Massachusetts Institute of Technology (
 Olatunji graduated from The American University of Nigeria in 2012 with a B.Sc. in Software Engineering. His Capstone Project was entitled “Developing a Transit Management System with Geograhic Informaton System Tracking.”   
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Resume Olatunji Akinbule.pdf)
+[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/olatunji_resume.pdf)
 
 ---
