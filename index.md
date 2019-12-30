@@ -15,7 +15,7 @@ keywords: Machine Learning, Statistics, Python
       </ul>
   </div>
 </div>
-  
+ 
 <p align = "left">
 A recent graduate in the Data Analytics program at The George Washington University, Olatunji Akinbule (TJ) is a proactive and retentive data analyst actively seeking full-time employment where I can utilize my analytical and data processing skills to analyze, interpret, predict and obtain insights for driving optimal business decisions.
 
