@@ -1,21 +1,27 @@
 ---
 layout: frontpage
 title: Olatunji Akinbule
-description: Olatunji is a graduate student at The George Washington University. 
+description: 
 keywords: Machine Learning, Statistics, Python
 ---
 
-## <a name=""></a>Greetings ! (Portfolio Population in Progress...)
-<br>
+### <a name="Bio"></a>Greetings
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/assets/ResumeDec2019.pdf">Resume (Updated Dec, 2019)</a></li>
+          <!--<li><a href="https://mingyuhuiliu.github.io/">Github</a></li>-->
+        <li><a href="https://www.linkedin.com/in/olatunji-akinbule/">LinkedIn</a></li>
+      </ul>
+  </div>
+</div>
   
 <p align = "left">
-I am Olatunji Akinbule, a Data Scientist with interests in Machine Learning, Statistics and Natural Language Processing.
+A recent graduate in the Data Analytics program at The George Washington University, Olatunji Akinbule (TJ) is a proactive and retentive data analyst actively seeking full-time employment where I can utilize my analytical and data processing skills to analyze, interpret, predict and obtain insights for driving optimal business decisions.
 
 </p>
 
-<p align = "left">
-Currently I am a first-year MS Candidate in Data Analytics at The George Washington University
-</p>
+
 <!--
 <div class="navbar">
   <div class="navbar-inner">
