@@ -17,7 +17,7 @@ keywords: Machine Learning, Statistics, Python
 </div>
  
 <p align = "left">
-A recent graduate in the Data Analytics program at The George Washington University, Olatunji Akinbule (TJ) is a proactive and retentive data analyst actively seeking full-time employment where I can utilize my analytical and data processing skills to analyze, interpret, predict and obtain insights for driving optimal business decisions.
+Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The George Washington University. As a  proactive and retentive data analyst, I am actively seeking full-time employment where I can utilize my analytical and data processing skills to analyze, interpret, predict and obtain insights for driving optimal business decisions.
 
 </p>
 
@@ -27,18 +27,13 @@ A recent graduate in the Data Analytics program at The George Washington Univers
   <div class="navbar-inner">
       <ul class="nav">
 -->
-<ul>
-    <li><a href="{{ BASE_PATH }}/assets/olatunji_resume.pdf">Resume</a></li>
-    <li><a href="https://github.com/akinbule">github</a></li>
-    <li><a href="https://akinbule.github.io">Personal Website</a></li>
-    <li><a href="https://www.linkedin.com/in/olatunji-akinbule/">LinkedIn</a></li>
-</ul>
+
 
 <!--
   </div>
 </div>
 -->
-## <a name="Portfolio">Portfolio</a>
+### <a name="Portfolio">Portfolio</a>Portfolio: Skills/Tools Examples
 
 <!--
 <table> 
@@ -53,17 +48,16 @@ A recent graduate in the Data Analytics program at The George Washington Univers
 -->
 
 
-<table class="wide">
+<table class="narrow">
 <tr>
   <td class="left">
     <a href="https://bsharvey.github.io/pages/publpics/bioinformatics1.html">
-        <img src="https://akinbule.github.io/assets/publpics/Social Network Analysis Circle.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+        <img src="pages/PCALoading.png" alt="PeaPCA" title="PeaPCAe"/>
     </a>
   </td>
   <td class="right">
     <a href="https://akinbule.github.io/pages/publpics/nba1.html">
-        <img src="https://akinbule.github.io/pages/publpics/ParallelPlotCluster.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
+        <img src="pages/3Diagram.png" alt="Predictive Maintenance" title="Predictive Maintenance"/>
     </a>
   </td>
 </tr>
@@ -89,7 +83,11 @@ A recent graduate in the Data Analytics program at The George Washington Univers
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://bsharvey.github.io">see more figures</a></li>
+          <!--create more figures page-->
+          <li><a href="#">see more figures</a></li>
       </ul>
   </div>
 </div>
+
+### <a name="ContactMe"></a>Contact Me
+Email: akinbule_ola@gwu.edu

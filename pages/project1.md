@@ -1,8 +1,53 @@
-<p>
-  Below are the details of my final class project on European Soccer Analysis:
-</p>
+---
+layout: page
+title: Projects
+description: Student's Presentations in Data Analytics
+---
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+        	<li><a href="#statistical"><u>Machine Learning</u></a></li>
+            <li><a href="#statistical"><u>Statistical Modeling: PCA & Regression</u></a></li>
+            <li><a href="#Capstone"><u>Capstone: Twitter sentiment predict stock price changes</u></a></li>
+            <li><a href="#Bank-Campaign"><u>Bank Campaign Prediction</u></a></li>
+            <li><a href="#capitalbikeshare"><u>Business Intelligence</u></a></li>
+            <li><a href="#kingcounty"><u>Price Prediction</u></a></li>
+            <!--<<li><a href="#MTurk"><u>Crowd Sourcing Project: Used Car Prices</u></a></li>
+            <li><a href="#master"><u>Master's Project</u></a></li>
+            <li><a href="#R"><u>R Project</u></a></li> -->
+        </ul>
+    </div>
+</div>
+---
 
 
-<a href="https://akinbule.github.io/assets/Final%20Project%20-%20European%20Soccer%20.ipynb">European Soccer Analysis</a>
 
-<a href ="https://akinbule.github.io/assets/EUROPEAN%20SOCCER%20Data%20Analysis.pptx">Presentation</a>
+---
+
+### <a name="statistical"></a>Statistical Modeling
+#### <a name="pca"></a>Principle Component Analysis, 2017.08-2017.12
+<br/>&nbsp; &nbsp; &nbsp; The spreadsheet "JudgeResultsPeas"
+contains average response results on 17
+attributes of 60 pea variations. Write a
+detailed analysis report as if you are
+conducting the analysis for a client and
+detail your analysis steps for this client.
+Analyze the pea attribute data using
+principal components.
+
+Decide on the number of principal components to retain and why, and interprete
+the components. Decide if an increasing value of a pea attribute means "a pea" is
+judged better or worse in terms of that attribute and next design a "pea metric"
+using your pea attribute analysis, fit an appropriate theoretical distribution to the
+score results of your "pea metric" and select using your fitted distribution the top
+ten percent of peas that outperform the others.
+<br/>&nbsp; &nbsp; &nbsp;[Download the Excel](Excel_PCA.xlsx)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Report](PCA.pdf)
+
+<br/>
+
+Scree Plot and Loading Plot from MiniTab.
+&nbsp; &nbsp; &nbsp; <br/><img src="Scree.png" alt="R/A1" style="width:400px;height:300px;">
+&nbsp; &nbsp; &nbsp; <br/><img src="loading.png" alt="R/A1" style="width:400px;height:300px;">
+
+<br/>
