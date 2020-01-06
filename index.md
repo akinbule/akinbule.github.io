@@ -52,12 +52,12 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
 <tr>
   <td class="left">
     <a href="https://bsharvey.github.io/pages/publpics/bioinformatics1.html">
-        <img src="pages/PCALoading.png" alt="PeaPCA" title="PeaPCAe" style="width:400px;height:300px;"/>
+        <img src="https://akinbule.github.io/pages/PCALoading.png" alt="PeaPCA" title="PeaPCAe" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
     <a href="https://akinbule.github.io/pages/publpics/nba1.html">
-        <img src="pages/3Diagram.png" alt="Predictive Maintenance" title="Predictive Maintenance" style="width:400px;height:300px;"/>
+        <img src="https://akinbule.github.io/pages/3Diagram.png" alt="Predictive Maintenance" title="Predictive Maintenance" style="width:400px;height:300px;"/>
     </a>
   </td>
 </tr>
