@@ -33,7 +33,7 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
   </div>
 </div>
 -->
-### <a name="Portfolio">Portfolio</a>Portfolio: Skills/Tools Examples
+### <a name="Portfolio"></a>Portfolio: Skills/Tools Examples
 
 <!--
 <table> 
@@ -51,8 +51,8 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
 <table class="narrow">
 <tr>
   <td class="left">
-    <a href="https://bsharvey.github.io/pages/publpics/bioinformatics1.html">
-        <img src="https://akinbule.github.io/pages/PCALoading.PNG" alt="PeaPCA" title="PeaPCAe" style="width:400px;height:300px;"/>
+    <a href="pages/software.md">
+        <img src="pages/PCALoading.PNG" alt="PeaPCA" title="PeaPCAe" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
