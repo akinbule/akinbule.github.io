@@ -26,8 +26,17 @@ description: Student's Presentations in Data Analytics
 
 ---
 
+### <a name="ml"></a>Machine Learning
+#### <a name="pca"></a>Aircraft Predictive Maintenance , 2018.08-2018.12
+<br/>&nbsp; &nbsp; &nbsp; Develop a predictive regression model for FACO scores are computed from the October loanRegression.xlsx file provided supplied by our hypothetical loan start up organization. Be wary though, the data is non-Gaussian, find a way to reduce the non-normality in the data using some clever data transformations if possible. Otherwise you might want to find a subset that is more "normal". Be creative!
+
+<br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
+
+<br/>
+
 ### <a name="statistical"></a>Statistical Modeling
-#### <a name="pca"></a>Principle Component Analysis, 2018.08-2018.12
+#### <a name="pca"></a>Principal Component Analysis, 2018.08-2018.12
 <br/>&nbsp; &nbsp; &nbsp; The spreadsheet "JudgeResultsPeas"
 contains average response results on 17
 attributes of 60 pea variations. Write a
@@ -43,8 +52,8 @@ judged better or worse in terms of that attribute and next design a "pea metric"
 using your pea attribute analysis, fit an appropriate theoretical distribution to the
 score results of your "pea metric" and select using your fitted distribution the top
 ten percent of peas that outperform the others.
-<br/>&nbsp; &nbsp; &nbsp;[Download the Excel (icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
-<br/>&nbsp; &nbsp; &nbsp;[Download the Report(icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
 
 <br/>
 
@@ -54,7 +63,8 @@ Scree Plot and Loading Plot from MiniTab.
 
 <br/>
 
-#### <a name="regression"></a>Regression, 2017.08-2017.12
-<br/>&nbsp; &nbsp; &nbsp;[Download the Excel](Excel_Regression.xlsx)
-<br/>&nbsp; &nbsp; &nbsp;[Download the Report](Regre)
-[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/ResumeDec2019.pdf)
+#### <a name="regression"></a>Regression, 2018.08-2018.12
+<br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
+
+<br/>
