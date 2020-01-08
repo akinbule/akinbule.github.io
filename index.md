@@ -9,9 +9,9 @@ keywords: Machine Learning, Statistics, Python
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/ResumeDec2019.pdf">Resume (Updated Dec, 2019)</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/ResumeDec2019.pdf" target="_blank">Resume (Updated Dec, 2019)</a></li>
           <!--<li><a href="https://mingyuhuiliu.github.io/">Github</a></li>-->
-        <li><a href="https://www.linkedin.com/in/olatunji-akinbule/">LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/olatunji-akinbule/" target="_blank">LinkedIn</a></li>
       </ul>
   </div>
 </div>
@@ -57,22 +57,19 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
   </td>
   <td class="right">
     <a href="https://akinbule.github.io/pages/publpics/nba1.html">
-        <img src="https://akinbule.github.io/pages/3Diagram.PNG" alt="Predictive Maintenance" title="Predictive Maintenance" style="width:400px;height:300px;"/>
+        <img src="pages/3Diagram.PNG" alt="Predictive Maintenance" title="Predictive Maintenance" style="width:400px;height:300px;"/>
     </a>
   </td>
 </tr>
- 
- 
- <!--
   <tr>
   <td class="left">
-    <a href="https://bsharvey.github.io">
-        <img src="pages/publpics/bioinformatics2.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="https://akinbule.github.io">
+        <img src="pages/HedgingDerivatives.jpeg" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
     </a>
   </td>
   <td class="right">
-    <a href="https://bsharvey.github.io">
-        <img src="pages/publpics/nba2.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="https://akinbule.github.io">
+        <img src="pages/HealthFacilities2mil.PNG" alt="Opioids Project" title="Tian et al. (2015) Fig 4"/>
     </a>
   </td>
 </tr>
