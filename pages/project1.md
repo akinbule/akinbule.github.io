@@ -6,10 +6,10 @@ description: Student's Presentations in Data Analytics
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-        	<li><a href="#statistical"><u>Machine Learning</u></a></li>
+        	<li><a href="#ml"><u>Machine Learning</u></a></li>
             <li><a href="#statistical"><u>Statistical Modeling: PCA & Regression</u></a></li>
             <li><a href="#Capstone"><u>Capstone: Predicting Failure to Appear DC Superior Court</u></a></li>
-            <li><a href="#Capstone"><u>Financial Modelling </u></a></li>
+            <li><a href="#fm"><u>Financial Modelling </u></a></li>
             <!--<<li><a href="#MTurk"><u>Crowd Sourcing Project: Used Car Prices</u></a></li>
             <li><a href="#master"><u>Master's Project</u></a></li>
             <li><a href="#R"><u>R Project</u></a></li>
@@ -27,7 +27,16 @@ description: Student's Presentations in Data Analytics
 ---
 
 ### <a name="ml"></a>Machine Learning
-#### <a name="pca"></a>Aircraft Predictive Maintenance , 2018.08-2018.12
+#### <a name="ml"></a>Aircraft Predictive Maintenance , 2018.08-2018.12
+<br/>&nbsp; &nbsp; &nbsp; 
+
+<br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
+
+<br/>
+
+### <a name="fm"></a>Financial Modelling
+#### <a name="fm"></a>Hedging Options with Futures - OOP Code Implementation , 2019.08-2019.12
 <br/>&nbsp; &nbsp; &nbsp; 
 
 <br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
