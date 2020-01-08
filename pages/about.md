@@ -1,11 +1,12 @@
 ---
 layout: page
-title: about
-description: Olatunji Akinbule is...
+title: Olatunji Akinbule(TJ)
+description: overview
+keywords: Data Analytics, Machine Learning, Finacial Modelling
 ---
 
 #### <a name="currentposition"></a>current position
-Olatunji Akinbule currently is a data analytics first-year graduate student in the School of Engineering and Applied Sciences at the George Washington University (GWU).
+Olatunji Akinbule graduated December 2019 from his Masters in Data Analytics in the School of Engineering and Applied Sciences at the George Washington University (GWU).
 
 
 #### <a name="previousposition"></a>previous positions
@@ -22,6 +23,6 @@ Dr. Harvey conducted research at Harvard-Massachusetts Institute of Technology (
 Olatunji graduated from The American University of Nigeria in 2012 with a B.Sc. in Software Engineering. His Capstone Project was entitled “Developing a Transit Management System with Geograhic Informaton System Tracking.”   
 
 #### <a name="cvandresume"></a>cv and resume
-[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/olatunji_resume.pdf)
+[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/ResumeDec2019.pdf)
 
 ---

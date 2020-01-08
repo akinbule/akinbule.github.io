@@ -64,7 +64,7 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
   <tr>
   <td class="left">
     <a href="pages/software.md">
-        <img src="pages/PCALoading.PNG" alt="PCA Peas" title="PCA Peas" style="width:400px;height:300px;"/>
+        <img src="pages/PCALoading.PNG" alt="Pea Quality Analysis" title="Pea Quality Analysis" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
