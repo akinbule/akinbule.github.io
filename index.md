@@ -63,17 +63,17 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
 </tr>
   <tr>
   <td class="left">
-    <a href="https://akinbule.github.io">
-        <img src="pages/HedgingDerivatives.jpeg" alt="Financial Modelling" title="Broman et al. (2013) Fig 7" style="width:400px;height:300px;"/>
+    <a href="pages/software.md">
+        <img src="pages/FinDerivaties.PNG" alt="Financial Modelling" title="Financial Modelling" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
     <a href="https://akinbule.github.io">
-        <img src="pages/HealthFacilities2mil.PNG" alt="Opioids Project" title="Tian et al. (2015) Fig 4" style="width:400px;height:300px;"/>
+        <img src="pages/HealthFacilities2mil.PNG" alt="Opioids Project" title="Opioids Project" style="width:400px;height:300px;"/>
     </a>
   </td>
 </tr>
-  -->
+
 </table>
 
 
