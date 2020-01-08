@@ -52,24 +52,24 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
 <tr>
   <td class="left">
     <a href="pages/software.md">
-        <img src="pages/PCALoading.PNG" alt="PCA Peas" title="PeaPCAe" style="width:400px;height:300px;"/>
+        <img src="pages/HealthFacilities2mil.PNG" alt="Opioids Project" title="Opioids Project" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
     <a href="https://akinbule.github.io/pages/publpics/nba1.html">
-        <img src="pages/3Diagram.PNG" alt="Predictive Maintenance" title="Predictive Maintenance" style="width:400px;height:300px;"/>
+        <img src="pages/FinDerivaties.PNG" alt="Financial Modelling" title="Financial Modelling" style="width:400px;height:300px;"/>
     </a>
   </td>
 </tr>
   <tr>
   <td class="left">
     <a href="pages/software.md">
-        <img src="pages/FinDerivaties.PNG" alt="Financial Modelling" title="Financial Modelling" style="width:400px;height:300px;"/>
+        <img src="pages/PCALoading.PNG" alt="PCA Peas" title="PCA Peas" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
     <a href="https://akinbule.github.io">
-        <img src="pages/HealthFacilities2mil.PNG" alt="Opioids Project" title="Opioids Project" style="width:400px;height:300px;"/>
+        <img src="pages/3Diagram.PNG" alt="Predictive Maintenance" title="Predictive Maintenance" style="width:400px;height:300px;"/>
     </a>
   </td>
 </tr>

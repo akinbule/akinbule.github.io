@@ -8,13 +8,15 @@ description: Student's Presentations in Data Analytics
         <ul class="nav">
         	<li><a href="#statistical"><u>Machine Learning</u></a></li>
             <li><a href="#statistical"><u>Statistical Modeling: PCA & Regression</u></a></li>
-            <li><a href="#Capstone"><u>Capstone: Twitter sentiment predict stock price changes</u></a></li>
-            <li><a href="#Bank-Campaign"><u>Bank Campaign Prediction</u></a></li>
-            <li><a href="#capitalbikeshare"><u>Business Intelligence</u></a></li>
-            <li><a href="#kingcounty"><u>Price Prediction</u></a></li>
+            <li><a href="#Capstone"><u>Capstone: Predicting Failure to Appear DC Superior Court</u></a></li>
+
             <!--<<li><a href="#MTurk"><u>Crowd Sourcing Project: Used Car Prices</u></a></li>
             <li><a href="#master"><u>Master's Project</u></a></li>
-            <li><a href="#R"><u>R Project</u></a></li> -->
+            <li><a href="#R"><u>R Project</u></a></li>
+            <li><a href="#Bank-Campaign"><u>Bank Campaign Prediction</u></a></li>
+            <li><a href="#capitalbikeshare"><u>Business Intelligence</u></a></li>
+            <li><a href="#kingcounty"><u>Price Prediction</u></a></li> 
+        -->
         </ul>
     </div>
 </div>
