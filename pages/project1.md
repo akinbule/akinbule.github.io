@@ -43,8 +43,8 @@ judged better or worse in terms of that attribute and next design a "pea metric"
 using your pea attribute analysis, fit an appropriate theoretical distribution to the
 score results of your "pea metric" and select using your fitted distribution the top
 ten percent of peas that outperform the others.
-<br/>&nbsp; &nbsp; &nbsp;[Download the Excel (icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
-<br/>&nbsp; &nbsp; &nbsp;[Download the Report](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Excel (icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Report(icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
 
 <br/>
 
