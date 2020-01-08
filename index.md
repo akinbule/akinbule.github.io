@@ -52,7 +52,7 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
 <tr>
   <td class="left">
     <a href="pages/software.md">
-        <img src="pages/PCALoading.PNG" alt="PeaPCA" title="PeaPCAe" style="width:400px;height:300px;"/>
+        <img src="pages/PCALoading.PNG" alt="PCA Peas" title="PeaPCAe" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
@@ -64,12 +64,12 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
   <tr>
   <td class="left">
     <a href="https://akinbule.github.io">
-        <img src="pages/HedgingDerivatives.jpeg" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+        <img src="pages/HedgingDerivatives.jpeg" alt="Financial Modelling" title="Broman et al. (2013) Fig 7" style="width:400px;height:300px/>
     </a>
   </td>
   <td class="right">
     <a href="https://akinbule.github.io">
-        <img src="pages/HealthFacilities2mil.PNG" alt="Opioids Project" title="Tian et al. (2015) Fig 4"/>
+        <img src="pages/HealthFacilities2mil.PNG" alt="Opioids Project" title="Tian et al. (2015) Fig 4" style="width:400px;height:300px/>
     </a>
   </td>
 </tr>
