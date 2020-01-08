@@ -9,7 +9,7 @@ description: Student's Presentations in Data Analytics
         	<li><a href="#statistical"><u>Machine Learning</u></a></li>
             <li><a href="#statistical"><u>Statistical Modeling: PCA & Regression</u></a></li>
             <li><a href="#Capstone"><u>Capstone: Predicting Failure to Appear DC Superior Court</u></a></li>
-
+            <li><a href="#Capstone"><u>Financial Modelling </u></a></li>
             <!--<<li><a href="#MTurk"><u>Crowd Sourcing Project: Used Car Prices</u></a></li>
             <li><a href="#master"><u>Master's Project</u></a></li>
             <li><a href="#R"><u>R Project</u></a></li>
@@ -28,7 +28,7 @@ description: Student's Presentations in Data Analytics
 
 ### <a name="ml"></a>Machine Learning
 #### <a name="pca"></a>Aircraft Predictive Maintenance , 2018.08-2018.12
-<br/>&nbsp; &nbsp; &nbsp; Develop a predictive regression model for FACO scores are computed from the October loanRegression.xlsx file provided supplied by our hypothetical loan start up organization. Be wary though, the data is non-Gaussian, find a way to reduce the non-normality in the data using some clever data transformations if possible. Otherwise you might want to find a subset that is more "normal". Be creative!
+<br/>&nbsp; &nbsp; &nbsp; 
 
 <br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
 <br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
@@ -64,7 +64,10 @@ Scree Plot and Loading Plot from MiniTab.
 <br/>
 
 #### <a name="regression"></a>Regression, 2018.08-2018.12
-<br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
+<br/>&nbsp; &nbsp; &nbsp;
+Develop a predictive regression model for FACO scores are computed from the October loanRegression.xlsx file provided supplied by our hypothetical loan start up organization. Be wary though, the data is non-Gaussian, find a way to reduce the non-normality in the data using some clever data transformations if possible. Otherwise you might want to find a subset that is more "normal". Be creative!
+
+[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
 <br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
 
 <br/>

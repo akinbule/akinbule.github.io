@@ -5,7 +5,7 @@ description:
 keywords: Machine Learning, Statistics, Python
 ---
 
-### <a name="Bio"></a>Greetings
+### <a name="Bio"></a>Greetings (Portfolio Content Population in Progress)
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -35,41 +35,29 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
 -->
 ### <a name="Portfolio"></a>Portfolio: Skills/Tools Examples
 
-<!--
-<table> 
-  <tr> <th>Submissions</th> 
-    <th></th> </tr> 
-  <tr> <td><a href="https://akinbule.github.io/assets/HW1.ipynb">Assignment1</a></td> <td></td> </tr> 
-  <tr> <td><a href="https://akinbule.github.io/assets/HW2.ipynb">Assignment2</a></td> <td>KNN, PCA</td>
-  <tr> <td><a href="https://akinbule.github.io/assets/HW2.ipynb">Assignment2</a></td> <td>KNN, PCA</td>
-  <tr> <td><a href="https://akinbule.github.io/assets/HW3.ipynb">Assignment3</a></td> <td><a href="https://akinbule.github.io/assets/merge_data_target.csv">Data File</a></td>
-  </tr> 
-</table>
--->
-
 
 <table class="narrow">
 <tr>
   <td class="left">
-    <a href="pages/software.md">
+    <a href="pages/projects1.md">
         <img src="pages/HealthFacilities2mil.PNG" alt="Opioids Project" title="Opioids Project" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
-    <a href="https://akinbule.github.io/pages/publpics/nba1.html">
+    <a href="pages/projects1.md">
         <img src="pages/FinDerivaties.PNG" alt="Financial Modelling" title="Financial Modelling" style="width:400px;height:300px;"/>
     </a>
   </td>
 </tr>
   <tr>
   <td class="left">
-    <a href="pages/software.md">
+    <a href="pages/projects1.md">
         <img src="pages/PCALoading.PNG" alt="Pea Quality Analysis" title="Pea Quality Analysis" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
-    <a href="https://akinbule.github.io">
-        <img src="pages/3Diagram.PNG" alt="Predictive Maintenance" title="Predictive Maintenance" style="width:400px;height:300px;"/>
+    <a href="pages/projects1.md">
+        <img src="pages/3Diagram.PNG" alt="Aircraft Predictive Maintenance" title="Aircraft Predictive Maintenance" style="width:400px;height:300px;"/>
     </a>
   </td>
 </tr>
