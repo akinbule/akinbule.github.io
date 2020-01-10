@@ -39,24 +39,24 @@ Olatunji Akinbule (TJ) is a recent graduate in the Data Analytics program at The
 <table class="narrow">
 <tr>
   <td class="left">
-    <a href="pages/projects1.md">
+    <a href="pages/projects.html#opioids">
         <img src="pages/HealthFacilities2mil.PNG" alt="Opioids Project" title="Opioids Project" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/projects1.md">
+    <a href="pages/projects.html#finmodel">
         <img src="pages/FinDerivaties.PNG" alt="Financial Modelling" title="Financial Modelling" style="width:400px;height:300px;"/>
     </a>
   </td>
 </tr>
   <tr>
   <td class="left">
-    <a href="pages/projects1.md">
+    <a href="pages/projects.html#peas">
         <img src="pages/PCALoading.PNG" alt="Pea Quality Analysis" title="Pea Quality Analysis" style="width:400px;height:300px;"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/projects1.md">
+    <a href="pages/projects.html#aircraft">
         <img src="pages/3Diagram.PNG" alt="Aircraft Predictive Maintenance" title="Aircraft Predictive Maintenance" style="width:400px;height:300px;"/>
     </a>
   </td>
