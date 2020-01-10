@@ -28,7 +28,7 @@ description: Student's Presentations in Data Analytics
 
 ### <a name="ml"></a>Machine Learning
 
-#### <a name="fta"></a>Predicting Failure to Appear in Court Cases: DC Superior Court , 2019.08-2019.12
+#### <a name="ml"></a>Predicting Failure to Appear in Court Cases: DC Superior Court , 2019.08-2019.12
 <br/>&nbsp; &nbsp; &nbsp; 
 
 <br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
@@ -37,7 +37,7 @@ description: Student's Presentations in Data Analytics
 <br/>
 
 
-#### <a name="phm"></a>Aircraft Predictive Maintenance , 2018.08-2018.12
+#### <a name="ml"></a>Aircraft Predictive Maintenance , 2018.08-2018.12
 <br/>&nbsp; &nbsp; &nbsp; 
 
 <br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
