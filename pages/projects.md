@@ -53,8 +53,7 @@ clustering on the dataset that contains Remaining Useful Life engine data and se
 #### <a name="finmodel"></a>Hedging Options with Futures - OOP Code Implementation , 2019.08-2019.12
 <br/>&nbsp; &nbsp; &nbsp; 
 
-<br/>&nbsp; &nbsp; &nbsp;Download the Jupyter Notebook![jupyter](icons16/jupyter-icon.png)]({{ BASE_PATH }}/assets/PredictiveMaintenance.ipynb))
-
+<br/>&nbsp; &nbsp; &nbsp;[Download the Jupyter Notebook![jupyter](icons16/jupyter-icon.png)]({{ BASE_PATH }}/assets/PredictiveMaintenance.ipynb)
 <br/>
 
 ### <a name="statistical"></a>Statistical Modeling
