@@ -31,13 +31,12 @@ description: Student's Presentations in Data Analytics
 #### <a name="fta"></a>Predicting Failure to Appear in Court Cases: DC Superior Court , 2019.08-2019.12
 <br/>&nbsp; &nbsp; &nbsp; 
 
-<br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
-<br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Presentation![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)&nbsp; &nbsp; &nbsp;[Download Some Project Files![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
 
 <br/>
 
 #### <a name="opioids"></a>Detecting Opioid-Related Risk Factors in Cincinnati, Ohio and Tempe, Arizona, 2019.08-2019.12
-<br/>&nbsp; &nbsp; &nbsp; The spreadsheet This paper presents an analysis plan, complete with pilot results, for a relational study of demographic and geographic covariates and their association with opioid-related EMS calls.  Building on prior literature, the paper successfully replicates the findings of a Poisson model testing for these relationships in Cincinnati Ohio. Additionally, it extends this method to Tempe, Arizona and introduces a similarly specified logistic regression model for both cities of interest. In general, we find that results do not extrapolate well between cities. Hence, further research is needed to identify generalizable opioid-related risk factors at the community level. 
+<br/>&nbsp; &nbsp; &nbsp; This paper presents an analysis plan, complete with pilot results, for a relational study of demographic and geographic covariates and their association with opioid-related EMS calls.  Building on prior literature, the paper successfully replicates the findings of a Poisson model testing for these relationships in Cincinnati Ohio. Additionally, it extends this method to Tempe, Arizona and introduces a similarly specified logistic regression model for both cities of interest. In general, we find that results do not extrapolate well between cities. Hence, further research is needed to identify generalizable opioid-related risk factors at the community level. 
 <br/>&nbsp; &nbsp; &nbsp;[Download the Presentation![PPT](icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/Opioids.pptx)&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Opioids.pdf)
 
 <br/>
@@ -46,8 +45,7 @@ description: Student's Presentations in Data Analytics
 Coming in after Pilot error, aircraft systems failure is one of the most common reasons for accidents. Catastrophic equipment failures still account for around 20% of aircraft losses despite the improvements in design and manufacturing quality. It is a fact nowadays that aircraft generate more data than ever. In this project, we will implement Logistic regression,
 Principle Component Analysis (PCA) and K-Means
 clustering on the dataset that contains Remaining Useful Life engine data and service statuses in order to determine whether an engine unit need to go through major servicing or not.
-<br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PredictiveMaintenance.pdf)
-<br/>&nbsp; &nbsp; &nbsp;[Download the Jupyter Notebook![jupyter](icons16/jupyter-icon.png)]({{ BASE_PATH }}/assets/PredictiveMaintenance.ipynb)
+<br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PredictiveMaintenance.pdf)&nbsp; &nbsp; &nbsp;[Download the Jupyter Notebook![jupyter](icons16/jupyter-icon.png)]({{ BASE_PATH }}/assets/PredictiveMaintenance.ipynb)
 
 <br/>
 
@@ -55,8 +53,7 @@ clustering on the dataset that contains Remaining Useful Life engine data and se
 #### <a name="finmodel"></a>Hedging Options with Futures - OOP Code Implementation , 2019.08-2019.12
 <br/>&nbsp; &nbsp; &nbsp; 
 
-<br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
-<br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
+<br/>&nbsp; &nbsp; &nbsp;Download the Jupyter Notebook![jupyter](icons16/jupyter-icon.png)]({{ BASE_PATH }}/assets/PredictiveMaintenance.ipynb))
 
 <br/>
 
