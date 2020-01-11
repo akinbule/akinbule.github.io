@@ -53,7 +53,8 @@ clustering on the dataset that contains Remaining Useful Life engine data and se
 #### <a name="finmodel"></a>Hedging Options with Futures - OOP Code Implementation , 2019.08-2019.12
 <br/>&nbsp; &nbsp; &nbsp; 
 
-<br/>&nbsp; &nbsp; &nbsp;[Download the Jupyter Notebook![jupyter](icons16/jupyter-icon.png)]({{ BASE_PATH }}/assets/PredictiveMaintenance.ipynb)
+<br/>&nbsp; &nbsp; &nbsp;
+[Download the Jupyter Notebook![jupyter](icons16/jupyter-icon.png)]({{ BASE_PATH }}/assets/PredictiveMaintenance.ipynb)
 <br/>
 
 ### <a name="statistical"></a>Statistical Modeling
@@ -85,7 +86,7 @@ Scree Plot and Loading Plot from MiniTab.
 
 #### <a name="regression"></a>Regression, 2018.08-2018.12
 <br/>&nbsp; &nbsp; &nbsp;
-Develop a predictive regression model for FACO scores are computed from the October loanRegression.xlsx file provided supplied by our hypothetical loan start up organization. Be wary though, the data is non-Gaussian, find a way to reduce the non-normality in the data using some clever data transformations if possible. Otherwise you might want to find a subset that is more "normal". Be creative!
+The Loan Startup Incorporated (LSI) provides crowdsourced loans to qualified individuals through an online portal. The objective of this research is to analyze LSI’s customer loan application data and create an enhanced and competitive Credit Score Metric that would improve customer satisfaction, increase profitability and present opportunities to expand into related markets using Linear Regression. . Be wary though, the data is non-Gaussian, find a way to reduce the non-normality in the data using some clever data transformations if possible. Otherwise you might want to find a subset that is more "normal". Be creative!
 
 [Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
 <br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
