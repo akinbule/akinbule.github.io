@@ -28,9 +28,10 @@ description: Student's Presentations in Data Analytics
 
 ### <a name="ml"></a>Machine Learning
 
-#### <a name="fta"></a>Predicting Failure to Appear in Court Cases: DC Superior Court , 2019.08-2019.12
+#### <a name="fta"></a>DC Mayor's Office: Predicting Failure to Appear in Court Cases: DC Superior Court , 2019.08-2019.12
 <br/>&nbsp; &nbsp; &nbsp; 
-
+Charges of failure to appear (FTA) are common across both court and arrest records. FTA was the top felony arrest charge from FY 2015 and FY 2017, making up nearly 20% of felony arrests, and was the fifth most common offense in court records between 2010 and 2016. While there might be a multiplicity of reasons for an FTA, Focus groups and interviews with Public Defender Services (PDS) and Pretrial Services (PSA) staff suggest that lack of transportation is a significant factor in failures to appear. Some defendants may be indigent or may prioritize other needs like food or rent above transportation.  Anecdotally, some defendants already receive metro cards from their attorney with a positive effect on their appearance by their attorneys. Given that transportation is reported as a barrier to court appearances, our objective is to develop machine learning models to predict the likelihood of the appearance of a defendant using data that is available at the outset of a case. This will allow for greater precision through a stratified random controlled trial in assessing the treatment effects associated with receiving a free MetroCard at the time of their release.
+NB: Due to a signed Non-disclosure agreement API codes and data, cannot be publicly shared
 <br/>&nbsp; &nbsp; &nbsp;[Download the Presentation![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)&nbsp; &nbsp; &nbsp;[Download Some Project Files![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
 
 <br/>
@@ -77,18 +78,16 @@ ten percent of peas that outperform the others.
 <br/>&nbsp; &nbsp; &nbsp;[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
 
 <br/>
-
+<!--
 Scree Plot and Loading Plot from MiniTab.
 &nbsp; &nbsp; &nbsp; <br/><img src="Scree.png" alt="R/A1" style="width:400px;height:300px;">
 &nbsp; &nbsp; &nbsp; <br/><img src="loading.png" alt="R/A1" style="width:400px;height:300px;">
 
 <br/>
-
+-->
 #### <a name="regression"></a>Regression, 2018.08-2018.12
 <br/>&nbsp; &nbsp; &nbsp;
 The Loan Startup Incorporated (LSI) provides crowdsourced loans to qualified individuals through an online portal. The objective of this research is to analyze LSI’s customer loan application data and create an enhanced and competitive Credit Score Metric that would improve customer satisfaction, increase profitability and present opportunities to expand into related markets using Linear Regression. . Be wary though, the data is non-Gaussian, find a way to reduce the non-normality in the data using some clever data transformations if possible. Otherwise you might want to find a subset that is more "normal". Be creative!
-
-[Download the Excel![Excel](icons16/ms-excel.png)]({{ BASE_PATH }}/assets/PeaQuality.xlsx)
-<br/>&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/PEAQualityAnalysis_PCA.pdf)
+&nbsp; &nbsp; &nbsp;[Download the Report![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/FACO.pdf)
 
 <br/>
